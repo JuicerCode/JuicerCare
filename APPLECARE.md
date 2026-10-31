@@ -43,12 +43,22 @@
       "service_fee": "$99 Screen / $299 Other"
     },
     "14\" MacBook Pro": {
-      "applecare": "$299 (3 Year) or $429 (4 Year)",
+      "applecare": "$329 (3 Year) or $459 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "16\" MacBook Pro": {
       "applecare": "$419 (3 Year) or $549 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+     },
+    "14\" MacBook Pro Proled": {
+      "applecare": "$449 (3 Year) or $629 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "16\" MacBook Pro Proled": {
+      "applecare": "$539 (3 Year) or $749 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     }
