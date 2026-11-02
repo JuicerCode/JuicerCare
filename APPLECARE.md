@@ -1,26 +1,26 @@
 {
   "📱iPhone": {
-    "iPhone 17 Pro / 17 Pro Max": {
-      "applecare": "$199 (2 Year) or $10.49/month",
-      "theft_loss": "$269 (2 Year) or $13.99/month",
+    "iPhone 18 Pro / 18 Pro Max": {
+      "applecare": "$229 (2 Year) or $11.49/month",
+      "theft_loss": "$299 (2 Year) or $14.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    },
+    "iPhone Duo": {
+      "applecare": "$329 (2 Year) or $16.49/month",
+      "theft_loss": "$399 (2 Year) or $19.99/month",
+      "service_fee": "$29 Outer display / $99 Inner display / $29 Back-glass / $99 Other"
     },
     "iPhone Air": {
       "applecare": "$229 (2 Year) or $11.49/month",
       "theft_loss": "$299 (2 Year) or $14.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     },
-    "iPhone 16 Plus / 15 Plus": {
-      "applecare": "$179 (2 Year) or $9.49/month",
-      "theft_loss": "$249 (2 Year) or $12.99/month",
-      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
-    },
     "iPhone 17 / 16 / 15 / 14": {
-      "applecare": "$149 (2 Year) or $8.49/month",
-      "theft_loss": "$219 (2 Year) or $11.99/month",
+      "applecare": "$189 (2 Year) or $9.49/month",
+      "theft_loss": "$259 (2 Year) or $12.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     },
-    "iPhone 16e": {
+    "iPhone 17e": {
       "applecare": "$149 (2 Year) or $7.49/month",
       "theft_loss": "$219 (2 Year) or $10.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
@@ -42,22 +42,22 @@
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
-    "14\" MacBook Pro": {
+    "14\" MacBook Pro M6": {
       "applecare": "$329 (3 Year) or $459 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
-    "16\" MacBook Pro": {
-      "applecare": "$419 (3 Year) or $549 (4 Year)",
-      "theft_loss": "N/A",
-      "service_fee": "$99 Screen / $299 Other"
-     },
-    "14\" MacBook Pro Proled": {
+    "14\" MacBook Pro PROLED": {
       "applecare": "$449 (3 Year) or $629 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
+     },
+    "16\" MacBook Pro M5 Pro": {
+      "applecare": "$419 (3 Year) or $549 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
     },
-    "16\" MacBook Pro Proled": {
+    "16\" MacBook Pro PROLED": {
       "applecare": "$539 (3 Year) or $749 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
