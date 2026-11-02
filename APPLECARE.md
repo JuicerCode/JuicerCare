@@ -1,8 +1,8 @@
 {
   "📱iPhone": {
-    "iPhone 18 Pro / 18 Pro Max": {
-      "applecare": "$229 (2 Year) or $11.49/month",
-      "theft_loss": "$299 (2 Year) or $14.99/month",
+    "iPhone 17e": {
+      "applecare": "$149 (2 Year) or $7.49/month",
+      "theft_loss": "$219 (2 Year) or $10.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     },
     "iPhone Duo": {
@@ -20,9 +20,9 @@
       "theft_loss": "$259 (2 Year) or $12.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     },
-    "iPhone 17e": {
-      "applecare": "$149 (2 Year) or $7.49/month",
-      "theft_loss": "$219 (2 Year) or $10.99/month",
+    "iPhone 18 Pro / 18 Pro Max": {
+      "applecare": "$229 (2 Year) or $11.49/month",
+      "theft_loss": "$299 (2 Year) or $14.99/month",
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     }
   },
